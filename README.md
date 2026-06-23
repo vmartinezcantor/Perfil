@@ -1,4 +1,4 @@
-# 👩‍💻 Camila Valentina Martínez Cantor
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Camila%20Valentina%20Martínez%20Cantor&fontSize=40&fontAlignY=35&fontColor=ffffff)
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)](#)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)](#)
@@ -15,24 +15,36 @@
 
 ---
 
-## 🧬 Idea del perfil
+## Perfil
 
 Soy una profesional en formación con capacidad para **diseñar, estructurar y desplegar servicios web integrales** utilizando Java (Spring Boot) y Python (Django, Flask).  
 Aplico principios de **Programación Orientada a Objetos (POO)** y gestiono bases de datos relacionales y no relacionales, integrando frontend y backend con un enfoque sólido en **arquitectura de software, modelado de sistemas y metodologías de desarrollo**.  
-Domino la documentación técnica con diagramas MER, conceptual, de casos de uso, secuencia, despliegue, componentes y actividades, y tengo experiencia aplicando tanto **metodologías ágiles (Scrum, Kanban) como en cascada**.
+Domino la documentación técnica con diagramas MER, conceptual, de casos de uso, secuencia, despliegue, componentes y actividades, y tengo experiencia aplicando tanto **metodologías ágiles (Scrum, Kanban) como en cascada**.  
+Me impulsa una fuerte **atracción por la ciberseguridad**, buscando incorporar buenas prácticas de protección de datos y análisis de vulnerabilidades en cada solución que construyo.
 
 ---
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|:---|:---|:---|
-| **🌿 TaxoDB** | Investigación en persistencia políglota para taxonomía biológica, combinando PostgreSQL y MongoDB mediante un ETL en Python. | PostgreSQL, MongoDB, Python |
-| **🧸 Toy Store** | Sistema de gestión de inventarios y ventas con arquitectura Cliente‑Servidor, integrando Django y base de datos relacional. | MySQL, Django, Python, Bootstrap |
-| **🏥 Bosque Health** | Plataforma de gestión de citas médicas y exámenes, implementada con patrón MVC, DAO/DTO y desplegada en un entorno integrado. | Java, Spring Boot, PostgreSQL, PrimeFaces |
+```plaintext
+🌿 TaxoDB – Investigación en persistencia políglota para taxonomía biológica
+├── 📁 sql/          → Tablas, procedimiento sp_create_taxon, función recursiva de linaje, triggers
+├── 📁 mongodb/      → Colecciones, inserción masiva (60+ especies), agregaciones y reportes
+└── 📁 python_etl/   → Integración en tiempo real PostgreSQL ↔ MongoDB
+    Stack: PostgreSQL • MongoDB • Python
 
----
+🧸 Toy Store – Sistema de gestión de inventarios y ventas con arquitectura Cliente‑Servidor
+├── 📁 backend/      → Lógica de negocio en Django (vistas, modelos, admin)
+├── 📁 frontend/     → Interfaz responsiva con Bootstrap
+└── 📁 database/     → Esquema relacional MySQL
+    Stack: Django • Python • MySQL • Bootstrap
 
+🏥 Bosque Health – Plataforma de gestión de citas médicas y exámenes
+├── 📁 src/          → Controladores y servicios en Spring Boot (MVC, DAO/DTO)
+├── 📁 model/        → Entidades JPA, mapeo objeto-relacional
+└── 📁 views/        → Componentes visuales con PrimeFaces
+    Stack: Java • Spring Boot • PostgreSQL • PrimeFaces
+```
 ## 🛠️ Stack Técnico
 
 | Categoría | Tecnologías |
@@ -72,22 +84,8 @@ Domino la documentación técnica con diagramas MER, conceptual, de casos de uso
 
 ---
 
-## 🌱 Intereses Profesionales
-
-| Área |
-|:---|
-| Desarrollo Full Stack |
-| Arquitectura de Software |
-| Ingeniería de Datos |
-| Modelado y Diseño de Sistemas |
-| Metodologías de Desarrollo |
-| Computación en la Nube |
-| Inteligencia Artificial |
-
----
-
 ## 📬 Contacto
 
-📧 [cvmartinezcantor@gmail.com](mailto:cvmartinezcantor@gmail.com)  
-💼 [LinkedIn: Camila Valentina Martínez Cantor](https://linkedin.com/in/tuusuario)  
-🐙 [GitHub: vmartinezcantor](https://github.com/vmartinezcantor)
+* [cvmartinezcantor@gmail.com](mailto:cvmartinezcantor@gmail.com)  
+* [LinkedIn: Camila Valentina Martínez Cantor](https://linkedin.com/in/tuusuario)  
+* [GitHub: vmartinezcantor](https://github.com/vmartinezcantor)
